@@ -13,7 +13,7 @@ Used the dataset to answer the following questions:
 This project was conducted using Google Colab, an online platform for Jupyter notebooks that offers free GPU and TPU resources, making it ideal for data-intensive tasks and machine learning experiments.
 ## Project Steps:
 1. **Subset Relevant Columns:**
-   - Choose columns necessary for answering the dataset questions: 'Date and Time of initial call', 'Animal Class', 'Call Source', and '# of Animals'.
+   - Subset the data by columns to choose only those columns which will help in answering the dataset associated questions.
 2. **Data Cleaning:**
    - Renaming the column names of the filtered dataframe to improve readibility and understandibility.
    - Understand the total number of rows and columns of the dataset along with the datatypes of each column. Additionally, figure out how many missing values are present so that I can handle them in the filtered dataset.
