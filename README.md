@@ -25,7 +25,7 @@ This project was conducted using Google Colab, an online platform for Jupyter no
    - Perform data visualization for each question to understand the trend over time effectively.
 5. **Perform Grouping and Aggregation:**
    - Use pandas to group and aggregate data to answer the specific three questions related to the dataset.
-8. **Develop pretty and ugly plots**
+6. **Develop pretty and ugly plots**
    - Create pretty and ugly plots that present the findings related to the two specific questions posed by the dataset.
 
 ## Expected Output:
