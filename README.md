@@ -21,10 +21,10 @@ This project was conducted using Google Colab, an online platform for Jupyter no
    - Drop the "StartDate" column as it does not contribute for further analysis.
 3. **Data Transformation:**
    - Adding a new column "VaccinatedYear" by extracting the "year" value and another column "VaccinatedMonth" by extracting "month" from "StartDate".
-4. **Data visualization:**
-   - Perform data visualization for each question to understand the trend over time effectively.
-5. **Perform Grouping and Aggregation:**
+4. **Perform Grouping and Aggregation:**
    - Use pandas to group and aggregate data to answer the specific two questions related to the dataset.
+5. **Data visualization:**
+   - Perform data visualization for each question to understand the trend over time effectively.
 6. **Develop pretty and ugly plots**
    - Create pretty and ugly plots that present the findings related to the two specific questions posed by the dataset.
 
